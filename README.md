@@ -286,12 +286,14 @@ TB_PETS    (1) ---- (N) TB_TRATAMENTOS
 
 | Nome | RM |
 |------|----|
-| Integrante 1 | RM XXXXX |
-| Integrante 2 | RM XXXXX |
-| Integrante 3 | RM XXXXX |
+| Felipe Maglio Filho | 563512 |
+| João Pedro Bitencourt Goldoni | 564339 |
+| Marina Tamagnini Magalhães | 	561786 |
+| Mateus Granja Dos Santos | 	564939 |
+| Vitória Valentina Maglio | 	563509 |
 
 ---
 
 ## Licenca
 
-Este projeto foi desenvolvido para fins academicos — FIAP, turma Advanced Business Development with .NET.
+Este projeto foi desenvolvido para fins academicos — FIAP, turma 2TDSPX. Na Matéria de Advanced Business Development with .NET.
